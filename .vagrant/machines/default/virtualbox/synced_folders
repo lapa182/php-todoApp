@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/todo-app":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/todo-app","hostpath":"/Users/igolapa/Projects/todo-app","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/igolapa/Projects/todo-app","disabled":false,"__vagrantfile":true}}}
